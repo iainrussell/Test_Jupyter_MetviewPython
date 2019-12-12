@@ -3,3 +3,5 @@ source activate metview_test
 
 conda install metview -c conda-forge
 pip install metview
+
+python3 -m pip install jupyter
