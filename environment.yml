@@ -145,3 +145,9 @@ dependencies:
     - widgetsnbextension==3.5.1
     - zipp==0.6.0
 prefix: /home/fatimapillosu/anaconda3/envs/metview
+
+conda create -vv -n metview_test python=3.7 jupyter
+source activate metview_test
+
+conda install metview -c conda-forge
+pip install metview
