@@ -1,5 +1,0 @@
-conda create -vv -n metview_test python=3.7 jupyter
-source activate metview_test
-
-conda install metview -c conda-forge
-pip install metview
