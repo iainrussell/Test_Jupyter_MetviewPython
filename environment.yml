@@ -2,7 +2,3 @@ channels:
   - conda-forge
 dependencies:
   - metview
-  - pip
-  - pip:
-    - metview
-    - matplotlib
