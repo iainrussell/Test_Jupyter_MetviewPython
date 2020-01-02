@@ -1,10 +1,10 @@
 name: metview
 channels:
   - conda-forge
-  - defaults
 dependencies:
-  - numpy
-  - pandas
+  - metview
   - pip
   - pip:
     - metview
+    - numpy
+    - pandas
