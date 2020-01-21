@@ -1,6 +1,7 @@
 channels:
   - conda-forge
 dependencies:
+  - mesa-libgl-cos6-x86_64
   - metview==5.7.5
   - pip
   - pip:
