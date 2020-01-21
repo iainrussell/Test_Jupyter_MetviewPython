@@ -1,7 +1,7 @@
 channels:
   - conda-forge
 dependencies:
-  - metview
+  - metview >=5.7.5
   - pip
   - pip:
     - metview
