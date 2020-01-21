@@ -1,6 +1,6 @@
 # Test_Jupyter_MetviewPython
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FatimaPillosu/Test_Jupyter_MetviewPython/master)  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iainrussell/Test_Jupyter_MetviewPython/master)  
 
 
 ### Note - Error "Failed to connect to event stream"
